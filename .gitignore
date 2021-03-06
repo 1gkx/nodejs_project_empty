@@ -1,1 +1,5 @@
-node_modules
+# Модули nodejs
+/node_modules
+
+#Конфигурация
+/config/config.json
